@@ -1,2 +1,2 @@
-# Javascript-Web-Development-Training
+# JavaScript-Web-Development-Training
 This repository contains source code for exercises from [Chris Aquino and Todd Gandee's book named "Front-End Web Development"](https://www.amazon.com/Front-End-Web-Development-Ranch-Guides/dp/0134433947/ref=sr_1_1?crid=2IPYBBK9IGGAS&dchild=1&keywords=big+nerd+ranch+front+end&qid=1593138571&sprefix=big+nerd+ranch+front+%2Caps%2C171&sr=8-1).  It comprises two months of work which I started August 2019 and completed in September.
